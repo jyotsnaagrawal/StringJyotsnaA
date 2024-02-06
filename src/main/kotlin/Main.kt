@@ -1,7 +1,7 @@
 import java.util.Scanner
 
 fun main() {
-    // Define a list of questions and correct answers
+    // Defining a list of questions and correct answers
     val questions = listOf(
         "Question 1: What is the capital of France?",
         "Question 2: In which year did World War II end?",
